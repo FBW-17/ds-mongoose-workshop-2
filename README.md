@@ -28,4 +28,4 @@
 * Test your routes
     * Create three flats using your POST fetch call
     * Retrieve all flats using your GET fetch call
-    * And also test retrieving a single flat, updating and deleting a flat
+    * Test retrieving a single flat, updating and deleting a flat
